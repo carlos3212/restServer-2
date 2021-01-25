@@ -19,4 +19,4 @@ process.env.urlDB = urlDB;
 process.env.CADUCIDAD_TOKEN = 60 * 60 * 24 * 30;
 //=========================================================//
 //SEED DE AUTENTIFICACION
-process.env.SEED = process.env.SEED || 'este-es-mi-clave-en-produccion';
+process.env.SEED = process.env.SEED || 'este-es-el-seed-produccion';
