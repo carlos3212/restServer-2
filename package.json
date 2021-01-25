@@ -2,7 +2,8 @@
   "name": "7-restserver",
   "version": "1.0.0",
   "engines": {
-    "node": "15.5.1"
+    "node": "15.5.1",
+    "npm":"7.3.0"
   },
   "main": "index.js",
   "scripts": {
